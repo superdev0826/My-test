@@ -1,7 +1,3 @@
-# What is it?
-We prepared this minimal boilerplate, so you can start implementing the designs with all the required configs for code style and Next.js environment. 
-
-Fork this repo and send us a link to the repo with your results.
 
 **Figma Designs:** https://www.figma.com/file/SWyCwoO9gHgwsAMMNtwzWW/Test-Task?node-id=0%3A1
 
